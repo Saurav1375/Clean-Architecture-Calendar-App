@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543367775078",
+    "project_id": "litecalender-f3b92",
+    "storage_bucket": "litecalender-f3b92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543367775078:android:daba8b14f9cd6e9ad3fea7",
+        "android_client_info": {
+          "package_name": "com.example.litecalendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE7_BF5UnH_yn80oHNalSmADz8G2xLPJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
